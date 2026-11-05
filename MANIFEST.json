@@ -439,6 +439,12 @@
       "source": "authored for GitHub publication",
       "bytes": 3259,
       "sha256": "db82f49597b8047cc98643eeee3c6eee788b4088e2410b45e9deea3df9029297"
+    },
+    {
+      "file": ".gitattributes",
+      "source": "authored for GitHub publication",
+      "bytes": 74,
+      "sha256": "6638cc6f74c9a2dfed2e5cca7b7a208798ad4fe91b2205290dc9956eb46e6a29"
     }
   ]
 }
