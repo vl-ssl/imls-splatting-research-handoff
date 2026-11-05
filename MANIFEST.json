@@ -1,0 +1,444 @@
+{
+  "date": "2026-11-05",
+  "description": "Read-only selected evidence and current source; not a runnable release. Historical records may contain superseded paths or conclusions.",
+  "files": [
+    {
+      "file": "evidence/BOUNDARY_PROBE_RESULTS_ZH.md",
+      "source": "analysis_next_round/20261104_boundary/BOUNDARY_PROBE_RESULTS_ZH.md",
+      "bytes": 3486,
+      "sha256": "b1f0423684f4d4a0ffc7c0de103eca51c5fad579fba59187c72bc8f2c3cfcdbe"
+    },
+    {
+      "file": "evidence/BOUNDARY_PROBE_SUMMARY.json",
+      "source": "analysis_next_round/20261104_boundary/BOUNDARY_PROBE_SUMMARY.json",
+      "bytes": 9312,
+      "sha256": "700ebb995c493df08e94c7a37c37a0f036567dbb2a10ed08c618ed52502b22ff"
+    },
+    {
+      "file": "evidence/BOUNDARY_PROBE_SELECTION.json",
+      "source": "analysis_next_round/20261104_boundary/BOUNDARY_PROBE_SELECTION.json",
+      "bytes": 7774,
+      "sha256": "587322d2b96d3ec02b2f6ee8aa4c7d634dd317bce39b7f64b0bac6021e88f5b0"
+    },
+    {
+      "file": "evidence/BOUNDARY_DOMAIN_AUDIT.json",
+      "source": "analysis_next_round/20261104_boundary/BOUNDARY_DOMAIN_AUDIT.json",
+      "bytes": 3390,
+      "sha256": "47784cbdd484723de7533570f3d414222f32e8146f5dc52ede7571377d74308b"
+    },
+    {
+      "file": "evidence/CAR_SUPPORT_AUDIT.json",
+      "source": "analysis_next_round/20261104_boundary/CAR_SUPPORT_AUDIT.json",
+      "bytes": 5127,
+      "sha256": "87fa58f899a04e33c76924f20109d3216f5c9eb88c9d6610a51f16c85f271d1e"
+    },
+    {
+      "file": "evidence/COFFEE_SUPPORT_AUDIT.json",
+      "source": "analysis_next_round/20261104_boundary/COFFEE_SUPPORT_AUDIT.json",
+      "bytes": 5272,
+      "sha256": "a0756e8e40814b3e09ffaae143a34c7876967e557dc53d89096bbf7d7e6f94ed"
+    },
+    {
+      "file": "evidence/REFREAL_RESULTS_ZH.md",
+      "source": "analysis_next_round/20261104_boundary/REFREAL_RESULTS_ZH.md",
+      "bytes": 2531,
+      "sha256": "db97587967277d2b8effd00b7458f7d2712319ab3b5ff01c5a899ef6514c8edc"
+    },
+    {
+      "file": "evidence/REFREAL_SUMMARY.json",
+      "source": "analysis_next_round/20261104_boundary/REFREAL_SUMMARY.json",
+      "bytes": 3516,
+      "sha256": "c51c83354e14b942d0268047e264de47ae81b6e21315b853d5b2513135ef3333"
+    },
+    {
+      "file": "evidence/METHOD_ANALYSIS_ZH.md",
+      "source": "analysis_next_round/20261104_boundary/METHOD_ANALYSIS_ZH.md",
+      "bytes": 15497,
+      "sha256": "4a239b96b10601d7689261111a898ea5329632df81331c50f37e2a35b421da49"
+    },
+    {
+      "file": "evidence/CODE_AND_TEST_PLAN_ZH.md",
+      "source": "analysis_next_round/20261104_boundary/CODE_AND_TEST_PLAN_ZH.md",
+      "bytes": 12154,
+      "sha256": "7a4f56591206323498dbbdbf60f892c4fe31910532c47e15f45a7c9e611be11f"
+    },
+    {
+      "file": "evidence/versions/REFNERF_V4_METHOD_RECORD_ZH.md",
+      "source": "docs/versions/REFNERF_V4_METHOD_RECORD_ZH.md",
+      "bytes": 9156,
+      "sha256": "730cd19283a535200555300025645c35a0e5f068729438b68ccdb479978277ca"
+    },
+    {
+      "file": "evidence/versions/REFNERF_V4_CODE_CHANGE_RECORD_ZH.md",
+      "source": "docs/versions/REFNERF_V4_CODE_CHANGE_RECORD_ZH.md",
+      "bytes": 11068,
+      "sha256": "3fc84b0212a1eb06864bec60b13e6995ac6772942d5ca4025a700a5687ab9e1a"
+    },
+    {
+      "file": "evidence/versions/REFNERF_V6_METHOD_RECORD_ZH.md",
+      "source": "docs/versions/REFNERF_V6_METHOD_RECORD_ZH.md",
+      "bytes": 2459,
+      "sha256": "a1fe51f888892fc0dd3d84e758989abcb8a412cb2c915cbc97c1b808877bd4be"
+    },
+    {
+      "file": "evidence/versions/REFNERF_V6_CODE_CHANGE_RECORD_ZH.md",
+      "source": "docs/versions/REFNERF_V6_CODE_CHANGE_RECORD_ZH.md",
+      "bytes": 2390,
+      "sha256": "11cbd07a2678c1fae04f110073247a738a06ce54ba0444ef5461da08f24fa0af"
+    },
+    {
+      "file": "evidence/versions/REFNERF_V22_METHOD_RECORD_ZH.md",
+      "source": "docs/versions/REFNERF_V22_METHOD_RECORD_ZH.md",
+      "bytes": 51520,
+      "sha256": "586e7385c26d812dbda82e6c52eab9b031f58d77b754c4566f77030227f4e8ae"
+    },
+    {
+      "file": "evidence/versions/REFNERF_V22_CODE_CHANGE_RECORD_ZH.md",
+      "source": "docs/versions/REFNERF_V22_CODE_CHANGE_RECORD_ZH.md",
+      "bytes": 47334,
+      "sha256": "3441787181e620a6ee0d189c1264f4f16b29bb718c9c56edc1276ace6c866a0d"
+    },
+    {
+      "file": "evidence/versions/VERSION_REPRODUCTION_ZH.md",
+      "source": "docs/versions/VERSION_REPRODUCTION_ZH.md",
+      "bytes": 6250,
+      "sha256": "e0e204b84a9a20c7d6f84b957c40525fb68192885f42d2eb74be5c1a15620463"
+    },
+    {
+      "file": "source/train.py",
+      "source": "train.py",
+      "bytes": 54220,
+      "sha256": "b8d231ca06464cdf2feaeb60a7297b8303e63c293d736497e016313c6a2b4e3b"
+    },
+    {
+      "file": "source/rasterizer.py",
+      "source": "rasterizer.py",
+      "bytes": 50186,
+      "sha256": "461bc4f16a3ca20fca578998f68c60b039f340aaf7619bb498dcbe600a757806"
+    },
+    {
+      "file": "source/models/models.py",
+      "source": "models/models.py",
+      "bytes": 17346,
+      "sha256": "aa72d5631e3e6c0f77990a7ed5ff547836aadc3624c4e5c93637b57d2f6bf855"
+    },
+    {
+      "file": "source/scene/dataset_readers.py",
+      "source": "scene/dataset_readers.py",
+      "bytes": 11309,
+      "sha256": "4a9cb8d5fa4fbe2768d2c34ae1090bb3cf7d94a4a23e821fb9ed9127cbc88c31"
+    },
+    {
+      "file": "source/scene/cameras.py",
+      "source": "scene/cameras.py",
+      "bytes": 3861,
+      "sha256": "545d16fb8192d7b501ac654262c71263cfd03383a892a70fb04a18449204e11c"
+    },
+    {
+      "file": "source/scene/gaussian_model.py",
+      "source": "scene/gaussian_model.py",
+      "bytes": 21127,
+      "sha256": "79662cd76051fa21039a6eda5613c0623a4645e80f994911f1dba985ee08cee8"
+    },
+    {
+      "file": "source/utils/refnerf_alpha.py",
+      "source": "utils/refnerf_alpha.py",
+      "bytes": 1874,
+      "sha256": "39233419371daadd780c6601f1f346cebce54a24e64b55f0934e7428cc9f1f9d"
+    },
+    {
+      "file": "source/utils/mesh_domain.py",
+      "source": "utils/mesh_domain.py",
+      "bytes": 923,
+      "sha256": "ed9280502cf9df1fac718665fb2d2a28c4e58bd7955da7e0f1fe5d1c8649f55b"
+    },
+    {
+      "file": "source/utils/opaque_boundary.py",
+      "source": "utils/opaque_boundary.py",
+      "bytes": 7814,
+      "sha256": "403ed4e9a4d2428bccb48d99a0977845f59b66191e19c41b080a50133935913f"
+    },
+    {
+      "file": "source/utils/visible_contour.py",
+      "source": "utils/visible_contour.py",
+      "bytes": 2605,
+      "sha256": "6e0e8de748a70db363ac3f829c55a0ffa8287e8ce443baf3040d00227de3e673"
+    },
+    {
+      "file": "source/tools/run_opaque_boundary_20261105.py",
+      "source": "tools/run_opaque_boundary_20261105.py",
+      "bytes": 8991,
+      "sha256": "a09f042cb5c30ecec0c02d6751e9d64381176b5f8769295b6b7cb27260cff926"
+    },
+    {
+      "file": "source/tools/evaluate_opaque_boundary.py",
+      "source": "tools/evaluate_opaque_boundary.py",
+      "bytes": 9674,
+      "sha256": "50d862b7a1d6609d7b7115450f8368ce83b903cc8a7f5c899db4e5d4785e67f4"
+    },
+    {
+      "file": "source/tools/select_opaque_boundary_probe.py",
+      "source": "tools/select_opaque_boundary_probe.py",
+      "bytes": 3801,
+      "sha256": "144af7c654f6c5aeca6e95acfc8f040c416583824d38825a11fcbf53bacfed01"
+    },
+    {
+      "file": "source/tools/evaluate_lpips_standard.py",
+      "source": "tools/evaluate_lpips_standard.py",
+      "bytes": 1622,
+      "sha256": "38f72ee2fb263cf76a53f25d0d47da54860ea1385a8bc6bac9689f3ba55023de"
+    },
+    {
+      "file": "source/tests/test_opaque_boundary.py",
+      "source": "tests/test_opaque_boundary.py",
+      "bytes": 3653,
+      "sha256": "a31833cf1f9af2408fd14ae875d506e1ef19f97efa499933633456095cbad569"
+    },
+    {
+      "file": "source/tests/test_visible_contour.py",
+      "source": "tests/test_visible_contour.py",
+      "bytes": 1734,
+      "sha256": "e578b13ae2dc46174cca3401bbba90b341ad87b293798169d2017cd08c797dcc"
+    },
+    {
+      "file": "source/tests/test_mesh_domain_parity.py",
+      "source": "tests/test_mesh_domain_parity.py",
+      "bytes": 1193,
+      "sha256": "23fe833ee9f4597e92a4bdd76ab76c6277c84c03abd357c4e443dc6de93ae29d"
+    },
+    {
+      "file": "figures/ball_camera_z.png",
+      "source": "comparison_refnerf_v32/ball_camera_z.png",
+      "bytes": 47764,
+      "sha256": "83c8d97dc46edb04732e89dc2027611b3c6b44ba0928f2f0733591ded9d77649"
+    },
+    {
+      "file": "figures/ball_comparison.png",
+      "source": "comparison_refnerf_v32/ball_comparison.png",
+      "bytes": 476312,
+      "sha256": "cecd4ef3d896fe751436f288759893164b02611a61b60f7c4a6f12fc06243eff"
+    },
+    {
+      "file": "figures/ball_normal_comparison.png",
+      "source": "comparison_refnerf_v32/ball_normal_comparison.png",
+      "bytes": 287871,
+      "sha256": "ccf44f709f2d9523622f90567052a6c49b21f86af72ec9ca9392899c8aa02bfe"
+    },
+    {
+      "file": "figures/car_camera_z.png",
+      "source": "comparison_refnerf_v32/car_camera_z.png",
+      "bytes": 24357,
+      "sha256": "68d0daa150099500f70e54fedafce744bc8b9d35a6f7f22b36c6754b2dd4847a"
+    },
+    {
+      "file": "figures/car_comparison.png",
+      "source": "comparison_refnerf_v32/car_comparison.png",
+      "bytes": 295780,
+      "sha256": "b39367209f3c72003ecbfeaa6c3b9ee18d2ea5dc4eafe052d49179a0cec923dc"
+    },
+    {
+      "file": "figures/car_normal_comparison.png",
+      "source": "comparison_refnerf_v32/car_normal_comparison.png",
+      "bytes": 226185,
+      "sha256": "1459dea8788f83058d80dafcd9f3b9a7357ddaa57660793f8ddc51ea1093f0e7"
+    },
+    {
+      "file": "figures/coffee_camera_z.png",
+      "source": "comparison_refnerf_v32/coffee_camera_z.png",
+      "bytes": 46613,
+      "sha256": "a082cf8089eafe34432d5d9a7b016576c906afae20daf1ace5da4aa8a051d4b0"
+    },
+    {
+      "file": "figures/coffee_comparison.png",
+      "source": "comparison_refnerf_v32/coffee_comparison.png",
+      "bytes": 333010,
+      "sha256": "435ba1124db3842a39ba5948a600b8db3727a7017ce82c9c4d2533ad8b970f5c"
+    },
+    {
+      "file": "figures/coffee_normal_comparison.png",
+      "source": "comparison_refnerf_v32/coffee_normal_comparison.png",
+      "bytes": 399156,
+      "sha256": "cb22aafc363a4e71f9e3cfc1f66d15144c7028cef639eb1b004f776aba1e818a"
+    },
+    {
+      "file": "figures/helmet_camera_z.png",
+      "source": "comparison_refnerf_v32/helmet_camera_z.png",
+      "bytes": 41419,
+      "sha256": "94e291169ab8de4bbbc4e08fcaa16fb72b3b17c756844f5524846e6111a7ad3f"
+    },
+    {
+      "file": "figures/helmet_comparison.png",
+      "source": "comparison_refnerf_v32/helmet_comparison.png",
+      "bytes": 334061,
+      "sha256": "6bd008244d844905fff4757cf1886c763fcb77c6cd10b356469c42fa3e2dff5e"
+    },
+    {
+      "file": "figures/helmet_normal_comparison.png",
+      "source": "comparison_refnerf_v32/helmet_normal_comparison.png",
+      "bytes": 326704,
+      "sha256": "76162981d9fee67e719daf991052654469bee5d8254ef5688d0284e9c86a1b40"
+    },
+    {
+      "file": "figures/metrics.csv",
+      "source": "comparison_refnerf_v32/metrics.csv",
+      "bytes": 1564,
+      "sha256": "97467806cb664af52ba657121cb1d60f7acb60e992b41c7aaeb20c299295c655"
+    },
+    {
+      "file": "figures/metrics.json",
+      "source": "comparison_refnerf_v32/metrics.json",
+      "bytes": 3100,
+      "sha256": "afe9136ad654d5e46679733229b495e72e96d05cbd5b332972ae8072e8802c9c"
+    },
+    {
+      "file": "figures/README_ZH.md",
+      "source": "comparison_refnerf_v32/README_ZH.md",
+      "bytes": 997,
+      "sha256": "4f365d8f176b53f75968e720485d6f5eca0329938b39791babd29afbc63c735b"
+    },
+    {
+      "file": "figures/teapot_camera_z.png",
+      "source": "comparison_refnerf_v32/teapot_camera_z.png",
+      "bytes": 19045,
+      "sha256": "47df19d11375ba17888c7d4ee4f97d7946ad99f43f88a878a1cf4d4b0248f9c9"
+    },
+    {
+      "file": "figures/teapot_comparison.png",
+      "source": "comparison_refnerf_v32/teapot_comparison.png",
+      "bytes": 99181,
+      "sha256": "874b436917b345aa83ecfb1e59751024a36afaf1eeef18d4b806e87c29a0596c"
+    },
+    {
+      "file": "figures/teapot_normal_comparison.png",
+      "source": "comparison_refnerf_v32/teapot_normal_comparison.png",
+      "bytes": 144184,
+      "sha256": "05d760a6a05d9a5ac2e8037e4623146f35bb87600fafc9c32bea49e99896f083"
+    },
+    {
+      "file": "figures/toaster_camera_z.png",
+      "source": "comparison_refnerf_v32/toaster_camera_z.png",
+      "bytes": 46923,
+      "sha256": "9161523c54d55a2cd577cd2964d90e4fea91034aea91cad3118c360419536088"
+    },
+    {
+      "file": "figures/toaster_comparison.png",
+      "source": "comparison_refnerf_v32/toaster_comparison.png",
+      "bytes": 433550,
+      "sha256": "d6ee7f50f4b382be258e2fd023b6240a81e639258b6e8c1ab613808267dca16b"
+    },
+    {
+      "file": "figures/toaster_normal_comparison.png",
+      "source": "comparison_refnerf_v32/toaster_normal_comparison.png",
+      "bytes": 360500,
+      "sha256": "d16014bbb1f5cfebceede4719531ccce1f6fe934010c2d9f52281b948c933b06"
+    },
+    {
+      "file": "WEB_GPT_RESEARCH_BRIEF_ZH.md",
+      "source": "authored for this handoff",
+      "bytes": 33058,
+      "sha256": "cdb2fde6270c57e210375cea14900d304bbdb516b31b2458d7710e00eac6284c"
+    },
+    {
+      "file": "START_HERE_ZH.md",
+      "source": "adapted for GitHub publication",
+      "bytes": 448,
+      "sha256": "46bec299b38426424586e2d774b9f878186962b646154f07d5535e084ba2d8e2"
+    },
+    {
+      "file": "source/gaussian-splatting/train.py",
+      "source": "gaussian-splatting/train.py",
+      "bytes": 14129,
+      "sha256": "68cd3c24f7033b7be8c643562a989a36fbdb29ca83300bd7ef408b1d161ded19"
+    },
+    {
+      "file": "source/arguments/__init__.py",
+      "source": "arguments/__init__.py",
+      "bytes": 9833,
+      "sha256": "553d8af5b81a2bb996fd48baf93b83bda4fe309f1b4a32d76922b734d9c12a19"
+    },
+    {
+      "file": "source/submodules/diffsplatting/ext.cpp",
+      "source": "submodules/diffsplatting/ext.cpp",
+      "bytes": 505,
+      "sha256": "1e7a56afcc226ff775997daa47b861ba46f574d9a5ee4a881c74831c44c10947"
+    },
+    {
+      "file": "source/submodules/diffsplatting/setup.py",
+      "source": "submodules/diffsplatting/setup.py",
+      "bytes": 690,
+      "sha256": "44f537d099ca6feb72753f708957dba7eca64d55ec712dea2c94fee83ee26776"
+    },
+    {
+      "file": "source/submodules/diffsplatting/splatter.cu",
+      "source": "submodules/diffsplatting/splatter.cu",
+      "bytes": 6161,
+      "sha256": "10d67f7caaec9f1ed6e16c37a0d7333cff089f2c116ba8f27ec2fd47322d291a"
+    },
+    {
+      "file": "source/submodules/diffsplatting/splatter.h",
+      "source": "submodules/diffsplatting/splatter.h",
+      "bytes": 1109,
+      "sha256": "8a6fdd6ebb464dc82099639f0ddd80e3dc1feffd757f451e47a7df108ce984d7"
+    },
+    {
+      "file": "source/submodules/diffsplatting/src/auxiliary.h",
+      "source": "submodules/diffsplatting/src/auxiliary.h",
+      "bytes": 2816,
+      "sha256": "5c37d42493a4f4b896e07477b065ceee75f0b628b66a9c033b4f8bc895db4f8a"
+    },
+    {
+      "file": "source/submodules/diffsplatting/src/backward.cu",
+      "source": "submodules/diffsplatting/src/backward.cu",
+      "bytes": 6478,
+      "sha256": "9c5142264f6d21e2bb1f4e822027f4053b1f2ac56845cc728f5b79df8b3a1ab0"
+    },
+    {
+      "file": "source/submodules/diffsplatting/src/backward.h",
+      "source": "submodules/diffsplatting/src/backward.h",
+      "bytes": 935,
+      "sha256": "ed88db43fbbcca695ef2debde046781e1a6df0e9894a0484090663d89fa80c0e"
+    },
+    {
+      "file": "source/submodules/diffsplatting/src/config.h",
+      "source": "submodules/diffsplatting/src/config.h",
+      "bytes": 215,
+      "sha256": "bbe9ea354cf80db2bfbcbb89194ff47a82febf1114213ba0b54a341976684877"
+    },
+    {
+      "file": "source/submodules/diffsplatting/src/forward.cu",
+      "source": "submodules/diffsplatting/src/forward.cu",
+      "bytes": 7518,
+      "sha256": "9fd508528e222e3abacb41cd180eb207c40d20ce2d1dfe82ae7d4109c2da46ab"
+    },
+    {
+      "file": "source/submodules/diffsplatting/src/forward.h",
+      "source": "submodules/diffsplatting/src/forward.h",
+      "bytes": 1008,
+      "sha256": "b22319b66d529bc66917897bde825c6457196f287481090a57f8846e99fa15d3"
+    },
+    {
+      "file": "source/submodules/diffsplatting/src/splatter_impl.cu",
+      "source": "submodules/diffsplatting/src/splatter_impl.cu",
+      "bytes": 13534,
+      "sha256": "08ee8f528208d44fbbbb658de3f7bc71fd8078d5f05c0fa1a1380ddc4aa9175e"
+    },
+    {
+      "file": "source/submodules/diffsplatting/src/splatter_impl.h",
+      "source": "submodules/diffsplatting/src/splatter_impl.h",
+      "bytes": 2707,
+      "sha256": "7d11311900b1e08075e834d52b27a083b1110592f2819085050b0e8a74c73026"
+    },
+    {
+      "file": "ATTACHMENTS_ZH.md",
+      "source": "authored for this handoff",
+      "bytes": 1040,
+      "sha256": "462b758d468c4d0eb82fa83bc0ea1900b7369fe3b2c1d70eada47056883b60d5"
+    },
+    {
+      "file": "README.md",
+      "source": "authored for GitHub publication",
+      "bytes": 3259,
+      "sha256": "db82f49597b8047cc98643eeee3c6eee788b4088e2410b45e9deea3df9029297"
+    }
+  ]
+}

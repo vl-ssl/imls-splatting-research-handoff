@@ -1,0 +1,218 @@
+{
+  "selected": null,
+  "results": {
+    "v38": {
+      "cases": {
+        "car": {
+          "delta": {
+            "boundary_f1": -0.002891354396404422,
+            "boundary_f2": -0.0016085782219581457,
+            "boundary_f4": -0.0004936464551861253,
+            "assd_px": 0.006619697378746459,
+            "hd95_px": 0.1251360214321977,
+            "missing": -0.00021880347325264893,
+            "extra": 0.00016437723618083384,
+            "silhouette_iou": 6.175813441688938e-05,
+            "psnr": -0.00570326585036085,
+            "ssim": -0.0001613451884342476,
+            "lpips": 7.844830934818081e-05,
+            "boundary_rgb_rmse": 0.0006567732645915147
+          },
+          "paired_normal": {
+            "delta": 0.057247442981371514,
+            "shared_pixels": 2085969,
+            "recovered_mae": 36.828462894146256,
+            "recovered_pixels": 484
+          },
+          "guard_pass": false,
+          "material_boundary_gain": false
+        },
+        "coffee": {
+          "delta": {
+            "boundary_f1": 0.0006990417239290947,
+            "boundary_f2": 7.97281437603381e-06,
+            "boundary_f4": 0.00034190083915508485,
+            "assd_px": -0.014472585374522229,
+            "hd95_px": -0.09841736910111898,
+            "missing": -1.354778370548336e-05,
+            "extra": -9.893842008960787e-05,
+            "silhouette_iou": 0.00011032166524105325,
+            "psnr": 0.011796804574821351,
+            "ssim": 0.00011168534939109964,
+            "lpips": -2.6747584342956543e-05,
+            "boundary_rgb_rmse": -0.0006413591595796353
+          },
+          "paired_normal": {
+            "delta": 0.08020888655804671,
+            "shared_pixels": 2919727,
+            "recovered_mae": 59.81352890862359,
+            "recovered_pixels": 47
+          },
+          "guard_pass": true,
+          "material_boundary_gain": false
+        }
+      },
+      "pass_gate": false
+    },
+    "region": {
+      "cases": {
+        "car": {
+          "delta": {
+            "boundary_f1": 6.356515506567018e-05,
+            "boundary_f2": 0.000323945551823579,
+            "boundary_f4": 0.00018203907692115884,
+            "assd_px": -0.004001170769137197,
+            "hd95_px": -0.060181176263505165,
+            "missing": -2.2359537491564718e-05,
+            "extra": -8.442630160528791e-06,
+            "silhouette_iou": 3.020027632338884e-05,
+            "psnr": -0.0004367828369140625,
+            "ssim": -1.156788605904957e-05,
+            "lpips": 2.5867269589349706e-05,
+            "boundary_rgb_rmse": 3.927946090698242e-05
+          },
+          "paired_normal": {
+            "delta": 0.0019419817609699608,
+            "shared_pixels": 2085994,
+            "recovered_mae": 36.547059059143066,
+            "recovered_pixels": 77
+          },
+          "guard_pass": true,
+          "material_boundary_gain": false
+        },
+        "coffee": {
+          "delta": {
+            "boundary_f1": -6.657362822082291e-05,
+            "boundary_f2": 0.00017027850304018877,
+            "boundary_f4": 8.337306075556494e-05,
+            "assd_px": -0.00030260514399760297,
+            "hd95_px": -0.04525537198114016,
+            "missing": 1.6492962288412044e-06,
+            "extra": 1.7968442171473198e-05,
+            "silhouette_iou": -1.9102577307750224e-05,
+            "psnr": -0.0024293752817001746,
+            "ssim": -1.3603613926771452e-05,
+            "lpips": 0.00011898863774079116,
+            "boundary_rgb_rmse": 2.4453951762287707e-05
+          },
+          "paired_normal": {
+            "delta": 0.0029200513303154507,
+            "shared_pixels": 2919744,
+            "recovered_mae": 12.85600459575653,
+            "recovered_pixels": 5
+          },
+          "guard_pass": true,
+          "material_boundary_gain": false
+        }
+      },
+      "pass_gate": false
+    },
+    "edge": {
+      "cases": {
+        "car": {
+          "delta": {
+            "boundary_f1": -0.0011739403815773652,
+            "boundary_f2": -0.00040349673453632384,
+            "boundary_f4": 0.0001652409425746404,
+            "assd_px": 0.005706872407082564,
+            "hd95_px": -0.021635875593510434,
+            "missing": -3.3785703685854096e-05,
+            "extra": 1.6186779518776416e-05,
+            "silhouette_iou": 1.851118189233336e-05,
+            "psnr": 0.0009165543776283869,
+            "ssim": -7.872398082975351e-06,
+            "lpips": 9.230438333290847e-05,
+            "boundary_rgb_rmse": 0.00016675201746133017
+          },
+          "paired_normal": {
+            "delta": 0.0074243712632988505,
+            "shared_pixels": 2085871,
+            "recovered_mae": 32.62377373377482,
+            "recovered_pixels": 228
+          },
+          "guard_pass": true,
+          "material_boundary_gain": false
+        },
+        "coffee": {
+          "delta": {
+            "boundary_f1": -0.00020313147300587975,
+            "boundary_f2": -6.463553376656606e-05,
+            "boundary_f4": -0.00021458391685502676,
+            "assd_px": 0.0026511598213720955,
+            "hd95_px": -0.005653135716947588,
+            "missing": -5.48325026010401e-06,
+            "extra": 4.211212038951993e-05,
+            "silhouette_iou": -3.5761414133306246e-05,
+            "psnr": -0.0029603517972489612,
+            "ssim": -2.7408966651321087e-05,
+            "lpips": 0.0003577510897929681,
+            "boundary_rgb_rmse": 0.00023531799133008624
+          },
+          "paired_normal": {
+            "delta": 0.006019855921085064,
+            "shared_pixels": 2919732,
+            "recovered_mae": 44.43425263298882,
+            "recovered_pixels": 28
+          },
+          "guard_pass": true,
+          "material_boundary_gain": false
+        }
+      },
+      "pass_gate": false
+    },
+    "combined": {
+      "cases": {
+        "car": {
+          "delta": {
+            "boundary_f1": -0.000773496400942375,
+            "boundary_f2": -0.0002522097587660532,
+            "boundary_f4": 0.0005276935140041683,
+            "assd_px": -0.005137845877190905,
+            "hd95_px": -0.09504195206667987,
+            "missing": -4.6227324472278286e-05,
+            "extra": 2.0028127057984853e-05,
+            "silhouette_iou": 2.723673846005692e-05,
+            "psnr": 0.0008496504563559881,
+            "ssim": -2.579505626965073e-05,
+            "lpips": 7.600136674366931e-05,
+            "boundary_rgb_rmse": 0.00018323728671440498
+          },
+          "paired_normal": {
+            "delta": 0.006361495707936298,
+            "shared_pixels": 2085885,
+            "recovered_mae": 32.874236265818276,
+            "recovered_pixels": 243
+          },
+          "guard_pass": true,
+          "material_boundary_gain": false
+        },
+        "coffee": {
+          "delta": {
+            "boundary_f1": -9.74818480929951e-05,
+            "boundary_f2": -0.00014652284808081006,
+            "boundary_f4": -0.00010086357615479713,
+            "assd_px": 0.0013914528072072052,
+            "hd95_px": -0.02929308286749155,
+            "missing": -1.0614907029495718e-05,
+            "extra": 2.5425234440318648e-05,
+            "silhouette_iou": -1.458698100742506e-05,
+            "psnr": 0.001222023597129862,
+            "ssim": -5.992559286238652e-06,
+            "lpips": 0.00014087901665613134,
+            "boundary_rgb_rmse": 0.00014229176136162924
+          },
+          "paired_normal": {
+            "delta": 0.014910959927454734,
+            "shared_pixels": 2919730,
+            "recovered_mae": 38.35183706283569,
+            "recovered_pixels": 27
+          },
+          "guard_pass": true,
+          "material_boundary_gain": false
+        }
+      },
+      "pass_gate": false
+    }
+  },
+  "note": "Training-heldout only; existing V32 checkpoint previously saw these views."
+}

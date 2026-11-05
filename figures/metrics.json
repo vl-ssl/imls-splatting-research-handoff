@@ -1,0 +1,128 @@
+[
+  {
+    "scene": "ball",
+    "method": "Original IMLS",
+    "SSIM": 0.8094348907470703,
+    "PSNR": 15.215371131896973,
+    "LPIPS": 0.31318947672843933
+  },
+  {
+    "scene": "ball",
+    "method": "Normal/opacity variant",
+    "SSIM": 0.9023257493972778,
+    "PSNR": 25.701797485351562,
+    "LPIPS": 0.20819856226444244
+  },
+  {
+    "scene": "ball",
+    "method": "Unified reflection V32",
+    "SSIM": 0.9651229977607727,
+    "PSNR": 30.644132614135742,
+    "LPIPS": 0.12488668411970139
+  },
+  {
+    "scene": "car",
+    "method": "Original IMLS",
+    "SSIM": 0.9039859771728516,
+    "PSNR": 19.972904205322266,
+    "LPIPS": 0.09109961241483688
+  },
+  {
+    "scene": "car",
+    "method": "Normal/opacity variant",
+    "SSIM": 0.9048302173614502,
+    "PSNR": 20.06356430053711,
+    "LPIPS": 0.09021840989589691
+  },
+  {
+    "scene": "car",
+    "method": "Unified reflection V32",
+    "SSIM": 0.9108328223228455,
+    "PSNR": 20.24701499938965,
+    "LPIPS": 0.08293512463569641
+  },
+  {
+    "scene": "coffee",
+    "method": "Original IMLS",
+    "SSIM": 0.9645739793777466,
+    "PSNR": 27.888330459594727,
+    "LPIPS": 0.10507439821958542
+  },
+  {
+    "scene": "coffee",
+    "method": "Normal/opacity variant",
+    "SSIM": 0.959511399269104,
+    "PSNR": 26.737138748168945,
+    "LPIPS": 0.11187915503978729
+  },
+  {
+    "scene": "coffee",
+    "method": "Unified reflection V32",
+    "SSIM": 0.9613350629806519,
+    "PSNR": 26.972646713256836,
+    "LPIPS": 0.10577613860368729
+  },
+  {
+    "scene": "helmet",
+    "method": "Original IMLS",
+    "SSIM": 0.9462058544158936,
+    "PSNR": 26.983633041381836,
+    "LPIPS": 0.09320694953203201
+  },
+  {
+    "scene": "helmet",
+    "method": "Normal/opacity variant",
+    "SSIM": 0.9444937705993652,
+    "PSNR": 27.383108139038086,
+    "LPIPS": 0.09746667742729187
+  },
+  {
+    "scene": "helmet",
+    "method": "Unified reflection V32",
+    "SSIM": 0.9567527770996094,
+    "PSNR": 28.481918334960938,
+    "LPIPS": 0.07434864342212677
+  },
+  {
+    "scene": "teapot",
+    "method": "Original IMLS",
+    "SSIM": 0.9949276447296143,
+    "PSNR": 40.556358337402344,
+    "LPIPS": 0.013721023686230183
+  },
+  {
+    "scene": "teapot",
+    "method": "Normal/opacity variant",
+    "SSIM": 0.9950831532478333,
+    "PSNR": 40.7681884765625,
+    "LPIPS": 0.013445854187011719
+  },
+  {
+    "scene": "teapot",
+    "method": "Unified reflection V32",
+    "SSIM": 0.9965569376945496,
+    "PSNR": 43.81950378417969,
+    "LPIPS": 0.0082994494587183
+  },
+  {
+    "scene": "toaster",
+    "method": "Original IMLS",
+    "SSIM": 0.8729799389839172,
+    "PSNR": 19.659921646118164,
+    "LPIPS": 0.15481938421726227
+  },
+  {
+    "scene": "toaster",
+    "method": "Normal/opacity variant",
+    "SSIM": 0.8719220161437988,
+    "PSNR": 20.019229888916016,
+    "LPIPS": 0.15860705077648163
+  },
+  {
+    "scene": "toaster",
+    "method": "Unified reflection V32",
+    "SSIM": 0.8872470855712891,
+    "PSNR": 20.502784729003906,
+    "LPIPS": 0.13137799501419067
+  }
+]

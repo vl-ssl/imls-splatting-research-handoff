@@ -1,0 +1,122 @@
+{
+  "imls_original/gardenspheres": {
+    "psnr": 20.570446014404297,
+    "ssim": 0.3876340326509978,
+    "lpips_vgg_standard_m11": 0.5991107476385016
+  },
+  "imls_original/sedan": {
+    "psnr": 20.732857418060302,
+    "ssim": 0.5098034620285035,
+    "lpips_vgg_standard_m11": 0.6782427370548249
+  },
+  "imls_original/toycar": {
+    "psnr": 22.49866020679474,
+    "ssim": 0.4927040599286556,
+    "lpips_vgg_standard_m11": 0.5729801692068577
+  },
+  "op/gardenspheres": {
+    "psnr": 20.466443312795537,
+    "ssim": 0.3676751710866627,
+    "lpips_vgg_standard_m11": 0.618095554803547
+  },
+  "op/sedan": {
+    "psnr": 20.575066089630127,
+    "ssim": 0.5063592702150345,
+    "lpips_vgg_standard_m11": 0.684078848361969
+  },
+  "op/toycar": {
+    "psnr": 22.359423995018005,
+    "ssim": 0.4752986431121826,
+    "lpips_vgg_standard_m11": 0.59160315990448
+  },
+  "v4/gardenspheres": {
+    "psnr": 20.57264518737793,
+    "ssim": 0.3735737973137906,
+    "lpips_vgg_standard_m11": 0.6142624742106387
+  },
+  "v4/sedan": {
+    "psnr": 20.64319305419922,
+    "ssim": 0.5077856495976448,
+    "lpips_vgg_standard_m11": 0.6836587518453598
+  },
+  "v4/toycar": {
+    "psnr": 22.454760313034058,
+    "ssim": 0.479058925062418,
+    "lpips_vgg_standard_m11": 0.5881210267543793
+  },
+  "v6/gardenspheres": {
+    "psnr": 20.57228038185521,
+    "ssim": 0.37352075859120015,
+    "lpips_vgg_standard_m11": 0.6138674585442794
+  },
+  "v6/sedan": {
+    "psnr": 20.647328472137453,
+    "ssim": 0.5076449692249299,
+    "lpips_vgg_standard_m11": 0.6829253882169724
+  },
+  "v6/toycar": {
+    "psnr": 22.45140767097473,
+    "ssim": 0.4789930749684572,
+    "lpips_vgg_standard_m11": 0.5879814624786377
+  },
+  "v32/gardenspheres": {
+    "psnr": 20.5883980801231,
+    "ssim": 0.3745311498641968,
+    "lpips_vgg_standard_m11": 0.6136086771362707
+  },
+  "v32/sedan": {
+    "psnr": 20.648392963409425,
+    "ssim": 0.5077272102236747,
+    "lpips_vgg_standard_m11": 0.6830742210149765
+  },
+  "v32/toycar": {
+    "psnr": 22.45332670211792,
+    "ssim": 0.4790779612958431,
+    "lpips_vgg_standard_m11": 0.5879584774374962
+  },
+  "3dgs_existing_parameters_unconfirmed/gardenspheres": {
+    "psnr": 21.40933468467311,
+    "ssim": 0.5212558837313401,
+    "lpips_vgg_standard_m11": 0.4167599662354118
+  },
+  "3dgs_existing_parameters_unconfirmed/sedan": {
+    "psnr": 24.60837802886963,
+    "ssim": 0.6729730680584908,
+    "lpips_vgg_standard_m11": 0.47782368361949923
+  },
+  "3dgs_existing_parameters_unconfirmed/toycar": {
+    "psnr": 23.78832995891571,
+    "ssim": 0.6156760435551405,
+    "lpips_vgg_standard_m11": 0.4347074590623379
+  },
+  "imls_original/mean_three_scenes": {
+    "psnr": 21.267321213086447,
+    "ssim": 0.4633805182027189,
+    "lpips_vgg_standard_m11": 0.6167778846333948
+  },
+  "op/mean_three_scenes": {
+    "psnr": 21.133644465814555,
+    "ssim": 0.4497776948046266,
+    "lpips_vgg_standard_m11": 0.6312591876899987
+  },
+  "v4/mean_three_scenes": {
+    "psnr": 21.22353285153707,
+    "ssim": 0.45347279065795115,
+    "lpips_vgg_standard_m11": 0.6286807509367925
+  },
+  "v6/mean_three_scenes": {
+    "psnr": 21.223672174989133,
+    "ssim": 0.4533862675948624,
+    "lpips_vgg_standard_m11": 0.6282581030799631
+  },
+  "v32/mean_three_scenes": {
+    "psnr": 21.230039248550145,
+    "ssim": 0.45377877379457154,
+    "lpips_vgg_standard_m11": 0.6282137918629145
+  },
+  "3dgs_existing_parameters_unconfirmed/mean_three_scenes": {
+    "psnr": 23.268680890819482,
+    "ssim": 0.6033016651149904,
+    "lpips_vgg_standard_m11": 0.44309703630574965
+  }
+}

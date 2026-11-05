@@ -1,0 +1,243 @@
+{
+  "voxel": 0.00823529411764706,
+  "fit_ids": [
+    1,
+    7,
+    13,
+    19,
+    25,
+    31,
+    37,
+    43,
+    49,
+    55,
+    61,
+    67,
+    73,
+    79,
+    85,
+    91,
+    97
+  ],
+  "coverage": [
+    {
+      "source_id": 0,
+      "missing": 192,
+      "max_component": 64,
+      "farther_than_8px": 0
+    },
+    {
+      "source_id": 8,
+      "missing": 10658,
+      "max_component": 6305,
+      "farther_than_8px": 7846
+    },
+    {
+      "source_id": 16,
+      "missing": 15507,
+      "max_component": 8645,
+      "farther_than_8px": 11803
+    },
+    {
+      "source_id": 24,
+      "missing": 9698,
+      "max_component": 8122,
+      "farther_than_8px": 5976
+    },
+    {
+      "source_id": 32,
+      "missing": 7928,
+      "max_component": 4519,
+      "farther_than_8px": 5674
+    },
+    {
+      "source_id": 40,
+      "missing": 10919,
+      "max_component": 8802,
+      "farther_than_8px": 7919
+    },
+    {
+      "source_id": 48,
+      "missing": 23278,
+      "max_component": 16025,
+      "farther_than_8px": 18606
+    },
+    {
+      "source_id": 56,
+      "missing": 23767,
+      "max_component": 14097,
+      "farther_than_8px": 19227
+    },
+    {
+      "source_id": 64,
+      "missing": 1115,
+      "max_component": 1087,
+      "farther_than_8px": 245
+    },
+    {
+      "source_id": 72,
+      "missing": 12137,
+      "max_component": 8917,
+      "farther_than_8px": 9414
+    },
+    {
+      "source_id": 80,
+      "missing": 21480,
+      "max_component": 15321,
+      "farther_than_8px": 17356
+    },
+    {
+      "source_id": 88,
+      "missing": 23522,
+      "max_component": 12507,
+      "farther_than_8px": 18915
+    },
+    {
+      "source_id": 96,
+      "missing": 12240,
+      "max_component": 9902,
+      "farther_than_8px": 8769
+    }
+  ],
+  "geometry": {
+    "ray": {
+      "covered": {
+        "sample_count": 26000,
+        "crossview_agreement": {
+          "count": 26000,
+          "percentiles": [
+            0.0,
+            1.0,
+            4.0
+          ]
+        },
+        "samples_multiview": 3,
+        "current_distance_voxels": {
+          "count": 3,
+          "percentiles": [
+            0.6204941053809109,
+            0.8187347853919463,
+            1.9207177329504004
+          ]
+        },
+        "original_distance_voxels": {
+          "count": 3,
+          "percentiles": [
+            0.8781568176875808,
+            1.2354528267415694,
+            2.1016192322125327
+          ]
+        },
+        "potential_source_only": 0
+      },
+      "near_miss": {
+        "sample_count": 22897,
+        "crossview_agreement": {
+          "count": 22897,
+          "percentiles": [
+            0.0,
+            1.0,
+            4.0
+          ]
+        },
+        "samples_multiview": 0,
+        "current_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "original_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "potential_source_only": 0
+      },
+      "far_miss": {
+        "sample_count": 22170,
+        "crossview_agreement": {
+          "count": 22170,
+          "percentiles": [
+            0.0,
+            1.0,
+            4.0
+          ]
+        },
+        "samples_multiview": 0,
+        "current_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "original_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "potential_source_only": 0
+      }
+    },
+    "z": {
+      "covered": {
+        "sample_count": 26000,
+        "crossview_agreement": {
+          "count": 26000,
+          "percentiles": [
+            0.0,
+            1.0,
+            3.0
+          ]
+        },
+        "samples_multiview": 0,
+        "current_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "original_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "potential_source_only": 0
+      },
+      "near_miss": {
+        "sample_count": 22897,
+        "crossview_agreement": {
+          "count": 22897,
+          "percentiles": [
+            0.0,
+            1.0,
+            3.0
+          ]
+        },
+        "samples_multiview": 0,
+        "current_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "original_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "potential_source_only": 0
+      },
+      "far_miss": {
+        "sample_count": 22170,
+        "crossview_agreement": {
+          "count": 22170,
+          "percentiles": [
+            0.0,
+            1.0,
+            3.0
+          ]
+        },
+        "samples_multiview": 0,
+        "current_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "original_distance_voxels": {
+          "count": 0,
+          "percentiles": null
+        },
+        "potential_source_only": 0
+      }
+    }
+  },
+  "note": "Read-only heldout diagnosis. Disparities are 1/255 quantized; nearest support anywhere in a quantization interval does not certify a true surface or a point to add."
+}
